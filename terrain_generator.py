@@ -1,6 +1,6 @@
 # terrain_generator.py
 # ==================================================
-# Forest Fire Reinforcement Learning Project
+# Forest Fire Reinforcement Learning Project : ITFA
 # Author: Ahmet Mert Sakallıoğlu
 # ======
 import numpy as np
