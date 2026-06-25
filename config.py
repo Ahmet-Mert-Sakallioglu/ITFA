@@ -1,4 +1,9 @@
 # config.py
+"""
+Forest Fire Reinforcement Learning Project : ITFA
+
+Author: Ahmet Mert Sakallıoğlu
+"""
 
 GRID_SIZE = 256
 
